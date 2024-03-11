@@ -11,7 +11,6 @@ mvn package
 To view the Jacoco will generate the coverage report, execute
 
 ```
-sudo apt update  && sudo apt install python3
 python3 -m http.server
 ```
 
